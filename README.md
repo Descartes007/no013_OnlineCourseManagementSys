@@ -78,10 +78,3 @@
 
 ![](screenshot/7.png)
 
-web启动链接
-http://localhost:8080/online-course/jsp/login.jsp
-
-
-一、项目介绍
-基于SSM框架的三农在线培训系统，系统角色为学生和管理员，主要功能如下
-
